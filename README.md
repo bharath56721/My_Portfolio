@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bharath G P — Portfolio
 
 A premium, dark-mode portfolio built with **React + Vite + Tailwind CSS + Framer Motion**.
@@ -91,3 +92,7 @@ Place your resume as `public/resume.pdf` so the download button and mailto links
 - **React Type Animation** — typing effect in Hero
 - **React Intersection Observer** — scroll reveal triggers
 - **React Icons** — icon library
+=======
+# My_Portfolio
+Personal portfolio website of Bharath G P – Java Full-Stack Developer | React | Spring Boot | MySQL
+>>>>>>> 5c1ddf8154bf68339a3d363ba82da2ade974f62c
